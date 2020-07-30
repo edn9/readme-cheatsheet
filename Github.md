@@ -72,7 +72,8 @@ git rebase master
 ```
 
 
-Outros comandos e mais exemplos: 
+Outros comandos e mais exemplos:
+
 https://rogerdudler.github.io/git-guide/
 
 https://git-scm.com/book/pt-br/v1/Ramifica%C3%A7%C3%A3o-Branching-no-Git-B%C3%A1sico-de-Branch-e-Merge
